@@ -1,9 +1,3 @@
-<p align="center">
-  <img src=".github/profile-card.svg" alt="lars@vogella: Eclipse committer, trainer and author from Hamburg" width="947">
-</p>
-
----
-
 vogella code examples
 =====================
 
@@ -17,3 +11,5 @@ License
 -------
 
 [Eclipse Public License - v 1.0](https://github.com/vogella/vogella/blob/master/LICENSE) is used.
+
+
