@@ -1,0 +1,111 @@
+[
+ {
+  "t": "head",
+  "text": "lars@vogella"
+ },
+ {
+  "t": "kv",
+  "k": "OS",
+  "v": "Ubuntu Linux, Android"
+ },
+ {
+  "t": "kv",
+  "k": "Uptime",
+  "v": "16 years, 10 months on GitHub"
+ },
+ {
+  "t": "kv",
+  "k": "Host",
+  "v": "vogella GmbH, Hamburg, Germany"
+ },
+ {
+  "t": "kv",
+  "k": "Kernel",
+  "v": "Developer, Author, Father, Husband"
+ },
+ {
+  "t": "kv",
+  "k": "IDE",
+  "v": "Eclipse IDE, VS Code, Claude Code"
+ },
+ {
+  "t": "blank"
+ },
+ {
+  "t": "kv",
+  "k": "Languages.Programming",
+  "v": "Java, Dart, Python, JavaScript"
+ },
+ {
+  "t": "kv",
+  "k": "Languages.Computer",
+  "v": "HTML, CSS, XML, YAML, Markdown"
+ },
+ {
+  "t": "kv",
+  "k": "Languages.Real",
+  "v": "German, English"
+ },
+ {
+  "t": "blank"
+ },
+ {
+  "t": "kv",
+  "k": "Focus.Eclipse",
+  "v": "Platform, JDT, PDE, SWT, Tycho"
+ },
+ {
+  "t": "kv",
+  "k": "Focus.Mobile",
+  "v": "Flutter, Android"
+ },
+ {
+  "t": "kv",
+  "k": "Focus.AI",
+  "v": "Agentic coding, MCP"
+ },
+ {
+  "t": "blank"
+ },
+ {
+  "t": "rule",
+  "text": "Contact"
+ },
+ {
+  "t": "kv",
+  "k": "Website",
+  "v": "vogella.com"
+ },
+ {
+  "t": "kv",
+  "k": "Email",
+  "v": "lars.vogel@vogella.com"
+ },
+ {
+  "t": "kv",
+  "k": "GitHub",
+  "v": "vogella"
+ },
+ {
+  "t": "blank"
+ },
+ {
+  "t": "rule",
+  "text": "GitHub Stats"
+ },
+ {
+  "t": "kv",
+  "k": "Repos",
+  "v": "48 {Contributed to: 45}"
+ },
+ {
+  "t": "kv",
+  "k": "Commits (last year)",
+  "v": "880  |  Pull Requests: 749"
+ },
+ {
+  "t": "kv",
+  "k": "Stars",
+  "v": "76  |  Followers: 1,037"
+ }
+]
